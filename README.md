@@ -1,6 +1,6 @@
 # Life of A Packet (Communication Path)
 
-When a person presses Enter after entering a website's URL in their browser's address bar, several stages are involved in loading the requested website. Here's a step-by-step breakdown of the process: a
+When a person presses Enter after entering a website's URL in their browser's address bar, several stages are involved in loading the requested website. Here's a step-by-step breakdown of the process: 
 
 1. DNS Resolution:
 
